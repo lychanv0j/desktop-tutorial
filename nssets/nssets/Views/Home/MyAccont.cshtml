@@ -1,0 +1,75 @@
+﻿@model nssets.Models.Customer
+
+<div class="container MyAccount">
+    <div class="Account" role="main">
+        <div style="display: contents;">
+            <div class="myaccount">
+                <div class="account">
+                    <h1 class="lable"> Information Records</h1>
+                    <div class="Note">Manage profile information for account security</div>
+                </div>
+
+                <div class="body">
+                    <div calss="infomation">
+                        <form>
+                            <table class="info">
+                                <tr>
+                                    <td class="username">
+                                        <label>User Name</label>
+                                    </td>
+                                    <td class="TextUser">
+                                        <div class="textuser"> @Session["UserName"]</div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td class="FullName">
+                                        <label>Name</label>
+                                    </td>
+                                    <td class="TextName">
+                                        <div class="text_name">
+                                            <input type="text" id="fullname" value="@Session["FullName"]" />
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td class="Email">
+                                        <lable>Email</lable>
+                                    </td>
+                                    <td class="text_email">
+                                        <div class="email">
+                                            <a class="mail">@Session["Email"]</a>
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td class="Phone">
+                                        <lable>Phone Number</lable>
+                                    </td>
+                                    <td class="text_phone">
+                                        <div class="phone_number">
+                                            <a class="phone" id="Phone">@Session["Phone"]</a>
+</div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td class="Save">
+                                        <label></label>
+                                    </td>
+                                    <td class="save_button">
+                                        <input type="submit" name="submit" class="btn btn-primary" value="Save" />
+                                    </td>
+                                </tr>
+
+
+                            </table>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,183 @@
+﻿@*<div id="wrapper" class="container">
+        <section class="main-content main-content-cart" style="margin:20px 0px">
+            <div class="row">
+                <div class="container">
+                    <h4 class="title"><span class="text"><strong>Your</strong> Cart</span></h4>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Remove</th>
+                                <th>Image</th>
+                                <th>Product Name</th>
+                                <th>Quantity</th>
+                                <th>Unit Price</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><input type="checkbox" value="option1"></td>
+                                <td><a href="product_detail.html"><img alt="" src="themes/images/ladies/9.jpg"></a></td>
+                                <td>Fusce id molestie massa</td>
+                                <td><input type="text" placeholder="1" class="input-mini"></td>
+                                <td>$2,350.00</td>
+                                <td>$2,350.00</td>
+                            </tr>
+                            <tr>
+                                <td><input type="checkbox" value="option1"></td>
+                                <td><a href="product_detail.html"><img alt="" src="themes/images/ladies/1.jpg"></a></td>
+                                <td>Luctus quam ultrices rutrum</td>
+                                <td><input type="text" placeholder="2" class="input-mini"></td>
+                                <td>$1,150.00</td>
+                                <td>$2,450.00</td>
+                            </tr>
+                            <tr>
+                                <td><input type="checkbox" value="option1"></td>
+                                <td><a href="product_detail.html"><img alt="" src="themes/images/ladies/3.jpg"></a></td>
+                                <td>Wuam ultrices rutrum</td>
+                                <td><input type="text" placeholder="1" class="input-mini"></td>
+                                <td>$1,210.00</td>
+                                <td>$1,123.00</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td><strong>$3,600.00</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h4>What would you like to do next?</h4>
+                    <p>Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.</p>
+                    <label class="radio">
+                        <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked="">
+                        Use Coupon Code
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                        Estimate Shipping &amp; Taxes
+                    </label>
+                    <hr>
+                    <p class="cart-total right">
+                        <strong>Sub-Total</strong>:	$100.00<br>
+                        <strong>Eco Tax (-2.00)</strong>: $2.00<br>
+                        <strong>VAT (17.5%)</strong>: $17.50<br>
+                        <strong>Total</strong>: $119.50<br>
+                    </p>
+                    <hr />
+                    <p class="buttons center">
+                        <button class="btn" type="button">Update</button>
+                        <button class="btn" type="button">Continue</button>
+                        <button class="btn btn-inverse" type="submit" id="checkout">Checkout</button>
+                    </p>
+                </div>
+            </div>
+        </section>
+    </div>*@
+
+@model List<nssets.Models.Cart>
+
+@*<div class="shopping-cart container">
+    
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="Control-row-cart">
+                        <td class="img-cart"><img class="" alt="" src="~/Content/test/products/@(item.ProductID.ToString() + ".png")"></td>   
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Quantity</td>
+                        <td>$@item.Product.Price</td>
+                        <td>$@(item.Quantity * item.Product.Price)</td>
+                        <td>
+                            <ul class="Control-function-edit">
+                                <li class="add-product"><a href="@Url.Action("AddProduct", "Home", new { productId = item.ProductID })" class="btn btn-primary" >+</a></li>
+                                <li class="Drop-product"><a href="@Url.Action("DropProduct", "Home", new { productId = item.ProductID })" class="btn btn-primary" >-</a></li>
+                                <li class="remove-product"><a href="@Url.Action("RemoveProduct", "Home", new { productId = item.ProductID })"class="btn btn-danger">Remove</a></li>
+                            </ul>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Your cart is empty.</p>
+    }
+</div>*@
+
+
+
+<div class="shopping-cart container" style="margin-bottom: 20px;">
+
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th><input type="checkbox" id="selectAll" /></th>
+                    <th>Product</th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="Control-row-cart">
+                        <td><input type="checkbox" class="product-checkbox" value="@item.ProductID" /></td>
+                        <td class="img-cart"><img class="" alt="" src="~/Content/test/products/@(item.ProductID.ToString() + ".png")"></td>
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Quantity</td>
+                        <td>$@item.Product.Price</td>
+                        <td>$@(item.Quantity * item.Product.Price)</td>
+                        <td>
+                            <ul class="Control-function-edit">
+                                <li class="add-product"><a href="@Url.Action("AddProduct", "Home", new { productId = item.ProductID })" class="btn btn-primary">+</a></li>
+                                <li class="Drop-product"><a href="@Url.Action("DropProduct", "Home", new { productId = item.ProductID })" class="btn btn-primary">-</a></li>
+                                <li class="remove-product"><a href="@Url.Action("RemoveProduct", "Home", new { productId = item.ProductID })" class="btn btn-danger">Remove</a></li>
+                            </ul>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        <div class="checkout-button">
+            <a href="@Url.Action("Checkout", "Home")" class="btn btn-success">Checkout</a>
+        </div>
+    }
+    else
+    {
+        <p>Your cart is empty.</p>
+    }
+</div>
+
+
+
+<script>
+    $(document).ready(function () {
+        $('#checkout').click(function (e) {
+            document.location.href = "checkout.html";
+        })
+    });
+</script>

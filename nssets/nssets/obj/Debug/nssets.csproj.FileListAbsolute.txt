@@ -1,0 +1,653 @@
+D:\nssets\nssets\bin\ApplicationInsights.config
+D:\nssets\nssets\bin\nssets.dll.config
+D:\nssets\nssets\bin\nssets.dll
+D:\nssets\nssets\bin\nssets.pdb
+D:\nssets\nssets\bin\roslyn\csc.exe
+D:\nssets\nssets\bin\roslyn\csc.exe.config
+D:\nssets\nssets\bin\roslyn\csc.rsp
+D:\nssets\nssets\bin\roslyn\csi.exe
+D:\nssets\nssets\bin\roslyn\csi.exe.config
+D:\nssets\nssets\bin\roslyn\csi.rsp
+D:\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+D:\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\nssets\nssets\bin\roslyn\System.AppContext.dll
+D:\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+D:\nssets\nssets\bin\roslyn\System.Console.dll
+D:\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+D:\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+D:\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+D:\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+D:\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+D:\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+D:\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+D:\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+D:\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+D:\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+D:\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\nssets\nssets\bin\roslyn\vbc.exe
+D:\nssets\nssets\bin\roslyn\vbc.exe.config
+D:\nssets\nssets\bin\roslyn\vbc.rsp
+D:\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+D:\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+D:\nssets\nssets\bin\Antlr3.Runtime.dll
+D:\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+D:\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+D:\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\nssets\nssets\bin\Microsoft.AI.Web.dll
+D:\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+D:\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+D:\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+D:\nssets\nssets\bin\Newtonsoft.Json.dll
+D:\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+D:\nssets\nssets\bin\System.Web.Helpers.dll
+D:\nssets\nssets\bin\System.Web.Mvc.dll
+D:\nssets\nssets\bin\System.Web.Optimization.dll
+D:\nssets\nssets\bin\System.Web.Razor.dll
+D:\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+D:\nssets\nssets\bin\System.Web.WebPages.dll
+D:\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+D:\nssets\nssets\bin\WebGrease.dll
+D:\nssets\nssets\bin\System.Web.Helpers.xml
+D:\nssets\nssets\bin\System.Web.Mvc.xml
+D:\nssets\nssets\bin\System.Web.Optimization.xml
+D:\nssets\nssets\bin\System.Web.Razor.xml
+D:\nssets\nssets\bin\System.Web.WebPages.xml
+D:\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+D:\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+D:\nssets\nssets\bin\Newtonsoft.Json.xml
+D:\nssets\nssets\bin\Antlr3.Runtime.pdb
+D:\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+D:\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+D:\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+D:\nssets\nssets\bin\Microsoft.AI.Web.xml
+D:\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\nssets\nssets\obj\Debug\nssets.csprojAssemblyReference.cache
+D:\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+D:\nssets\nssets\obj\Debug\nssets.csproj.CopyComplete
+D:\nssets\nssets\obj\Debug\nssets.dll
+D:\nssets\nssets\obj\Debug\nssets.pdb
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\ApplicationInsights.config
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\nssets.dll.config
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\nssets.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\nssets.pdb
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\csc.exe
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\csc.exe.config
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\csc.rsp
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\csi.exe
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\csi.exe.config
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\csi.rsp
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.AppContext.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Console.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\vbc.exe
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\vbc.exe.config
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\vbc.rsp
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Antlr3.Runtime.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.Web.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Newtonsoft.Json.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Helpers.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Mvc.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Optimization.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Razor.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.WebPages.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\WebGrease.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Helpers.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Mvc.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Optimization.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.Razor.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.WebPages.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Newtonsoft.Json.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Antlr3.Runtime.pdb
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.AI.Web.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\obj\Debug\nssets.csprojAssemblyReference.cache
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\obj\Debug\nssets.csproj.CopyComplete
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\obj\Debug\nssets.dll
+C:\Users\LAB13-PC33\Downloads\nssets\nssets\nssets\obj\Debug\nssets.pdb
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\nssets.dll.config
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\nssets.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\nssets.pdb
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\WebGrease.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\obj\Debug\nssets.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\obj\Debug\nssets.csproj.CopyComplete
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\obj\Debug\nssets.dll
+C:\Users\Admin\Downloads\nssets\nssets\nssets\nssets\obj\Debug\nssets.pdb
+C:\coding\nssets\nssets\nssets\nssets\bin\ApplicationInsights.config
+C:\coding\nssets\nssets\nssets\nssets\bin\nssets.dll.config
+C:\coding\nssets\nssets\nssets\nssets\bin\nssets.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\nssets.pdb
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\csc.exe
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\csc.exe.config
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\csc.rsp
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\csi.exe
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\csi.exe.config
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\csi.rsp
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.AppContext.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Console.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\vbc.exe
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\vbc.exe.config
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\vbc.rsp
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+C:\coding\nssets\nssets\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+C:\coding\nssets\nssets\nssets\nssets\bin\Antlr3.Runtime.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.Web.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\Newtonsoft.Json.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Helpers.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Mvc.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Optimization.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Razor.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\WebGrease.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Helpers.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Mvc.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Optimization.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.Razor.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Newtonsoft.Json.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Antlr3.Runtime.pdb
+C:\coding\nssets\nssets\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.AI.Web.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\coding\nssets\nssets\nssets\nssets\obj\Debug\nssets.csprojAssemblyReference.cache
+C:\coding\nssets\nssets\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+C:\coding\nssets\nssets\nssets\nssets\obj\Debug\nssets.csproj.CopyComplete
+C:\coding\nssets\nssets\nssets\nssets\obj\Debug\nssets.dll
+C:\coding\nssets\nssets\nssets\nssets\obj\Debug\nssets.pdb
+C:\coding\nssets\nssets\nssets\nssets\bin\EntityFramework.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\EntityFramework.SqlServer.dll
+C:\coding\nssets\nssets\nssets\nssets\bin\EntityFramework.xml
+C:\coding\nssets\nssets\nssets\nssets\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\ApplicationInsights.config
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\nssets.dll.config
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\nssets.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\nssets.pdb
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\csc.exe
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\csc.exe.config
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\csc.rsp
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\csi.exe
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\csi.exe.config
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\csi.rsp
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Console.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\vbc.exe
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\vbc.rsp
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\EntityFramework.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Helpers.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Mvc.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Optimization.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Razor.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.WebPages.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\WebGrease.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\EntityFramework.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Helpers.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Mvc.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Optimization.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.Razor.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.WebPages.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\obj\Debug\nssets.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\obj\Debug\nssets.csproj.CopyComplete
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\obj\Debug\nssets.dll
+C:\Users\ASUS\source\repos\New folder\nssets\nssets\obj\Debug\nssets.pdb
+C:\New folder\nssets\nssets\bin\ApplicationInsights.config
+C:\New folder\nssets\nssets\bin\nssets.dll.config
+C:\New folder\nssets\nssets\bin\nssets.dll
+C:\New folder\nssets\nssets\bin\nssets.pdb
+C:\New folder\nssets\nssets\bin\roslyn\csc.exe
+C:\New folder\nssets\nssets\bin\roslyn\csc.exe.config
+C:\New folder\nssets\nssets\bin\roslyn\csc.rsp
+C:\New folder\nssets\nssets\bin\roslyn\csi.exe
+C:\New folder\nssets\nssets\bin\roslyn\csi.exe.config
+C:\New folder\nssets\nssets\bin\roslyn\csi.rsp
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+C:\New folder\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder\nssets\nssets\bin\roslyn\System.AppContext.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Console.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+C:\New folder\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\New folder\nssets\nssets\bin\roslyn\vbc.exe
+C:\New folder\nssets\nssets\bin\roslyn\vbc.exe.config
+C:\New folder\nssets\nssets\bin\roslyn\vbc.rsp
+C:\New folder\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+C:\New folder\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+C:\New folder\nssets\nssets\bin\Antlr3.Runtime.dll
+C:\New folder\nssets\nssets\bin\EntityFramework.dll
+C:\New folder\nssets\nssets\bin\EntityFramework.SqlServer.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AI.Web.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+C:\New folder\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+C:\New folder\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\New folder\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+C:\New folder\nssets\nssets\bin\Newtonsoft.Json.dll
+C:\New folder\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+C:\New folder\nssets\nssets\bin\System.Web.Helpers.dll
+C:\New folder\nssets\nssets\bin\System.Web.Mvc.dll
+C:\New folder\nssets\nssets\bin\System.Web.Optimization.dll
+C:\New folder\nssets\nssets\bin\System.Web.Razor.dll
+C:\New folder\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+C:\New folder\nssets\nssets\bin\System.Web.WebPages.dll
+C:\New folder\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+C:\New folder\nssets\nssets\bin\WebGrease.dll
+C:\New folder\nssets\nssets\bin\EntityFramework.xml
+C:\New folder\nssets\nssets\bin\EntityFramework.SqlServer.xml
+C:\New folder\nssets\nssets\bin\System.Web.Helpers.xml
+C:\New folder\nssets\nssets\bin\System.Web.Mvc.xml
+C:\New folder\nssets\nssets\bin\System.Web.Optimization.xml
+C:\New folder\nssets\nssets\bin\System.Web.Razor.xml
+C:\New folder\nssets\nssets\bin\System.Web.WebPages.xml
+C:\New folder\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+C:\New folder\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+C:\New folder\nssets\nssets\bin\Newtonsoft.Json.xml
+C:\New folder\nssets\nssets\bin\Antlr3.Runtime.pdb
+C:\New folder\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+C:\New folder\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\New folder\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+C:\New folder\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+C:\New folder\nssets\nssets\bin\Microsoft.AI.Web.xml
+C:\New folder\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder\nssets\nssets\obj\Debug\nssets.csprojAssemblyReference.cache
+C:\New folder\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+C:\New folder\nssets\nssets\obj\Debug\nssets.csproj.CopyComplete
+C:\New folder\nssets\nssets\obj\Debug\nssets.dll
+C:\New folder\nssets\nssets\obj\Debug\nssets.pdb
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\ApplicationInsights.config
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\nssets.dll.config
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\nssets.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\nssets.pdb
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\csc.exe
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\csc.exe.config
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\csc.rsp
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\csi.exe
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\csi.exe.config
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\csi.rsp
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.Managed.Core.targets
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.AppContext.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Collections.Immutable.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Console.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.IO.Compression.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.IO.FileSystem.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.IO.Pipes.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Reflection.Metadata.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.AccessControl.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.Claims.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Security.Principal.Windows.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.ValueTuple.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Xml.XmlDocument.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Xml.XPath.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\vbc.exe
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\vbc.exe.config
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\vbc.rsp
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\VBCSCompiler.exe
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\roslyn\VBCSCompiler.exe.config
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Antlr3.Runtime.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\EntityFramework.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\EntityFramework.SqlServer.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.Agent.Intercept.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.DependencyCollector.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.Web.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.WindowsServer.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.ApplicationInsights.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.Web.Infrastructure.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Newtonsoft.Json.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Helpers.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Mvc.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Optimization.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Razor.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.WebPages.Deployment.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.WebPages.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.WebPages.Razor.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\WebGrease.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\EntityFramework.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\EntityFramework.SqlServer.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Helpers.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Mvc.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Optimization.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.Razor.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.WebPages.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.WebPages.Deployment.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Web.WebPages.Razor.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Newtonsoft.Json.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Antlr3.Runtime.pdb
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\System.Diagnostics.DiagnosticSource.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.DependencyCollector.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.WindowsServer.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.AI.Web.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\git hub\Final_Project_Web_2024\nssets\nssets\obj\Debug\nssets.csproj.AssemblyReference.cache
+E:\git hub\Final_Project_Web_2024\nssets\nssets\obj\Debug\nssets.csproj.CoreCompileInputs.cache
+E:\git hub\Final_Project_Web_2024\nssets\nssets\obj\Debug\nssets.csproj.Up2Date
+E:\git hub\Final_Project_Web_2024\nssets\nssets\obj\Debug\nssets.dll
+E:\git hub\Final_Project_Web_2024\nssets\nssets\obj\Debug\nssets.pdb

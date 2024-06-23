@@ -1,0 +1,51 @@
+﻿@model List<nssets.Models.Product>
+<div class="blue_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="titlepage">
+                    <h2>Hot Product</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- about section -->
+
+
+<div id="project" class="project">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="titlepage">
+                    <h2>Featured Products</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="product_main">
+                @foreach (var product in Model)
+                {
+                <div class="project_box">
+                    <a href='@Url.Action("Product_Detail", "Home", new { id = product.ProductID})'>
+                        <img alt="" src="~/Content/test/products/@(product.ProductID).png">
+                    </a><br />
+                    @*<div class="dark_white_bg"><img src="~/Content/test/products/1.png" alt="#" /></div>*@
+                    <h3>@product.ProductName</h3>
+                    <h3>$@product.Price</h3>
+                </div>
+                }
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
